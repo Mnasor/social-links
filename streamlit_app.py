@@ -15,12 +15,11 @@ st.info('this is my first link ')
 
 icon_size = 20
 
-st_button('youtube', 'https://www.youtube.com/watch?v=uY0p1M8AB_4&t=11s',
-          'Data Professor YouTube channel', icon_size)
-st_button('youtube', 'https://youtube.com/codingprofessor',
-          'Coding Professor YouTube channel', icon_size)
-st_button('medium', 'https://data-professor.medium.com/',
-          'Read my Blogs', icon_size)
+st_button('youtube', 'https://youtube.com/channel/UCDXLeBjO7av7mcJ25uAE3ew',
+          'قناة اليوتيوب', icon_size)
+
+st_button('medium', 'https://www.snapchat.com/add/f-alshehili?share_id=MEI2MzgxNEMtRDM2NC00NzQ4LTg5NkMtRUQ3QkY2NUM5Nzc4&locale=ar_SA@calendar=gregorian',
+          'ٍSnapchat', icon_size)
 st_button('twitter', 'https://twitter.com/thedataprof/',
           'Follow me on Twitter', icon_size)
 st_button('linkedin', 'https://www.linkedin.com/in/chanin-nantasenamat/',
