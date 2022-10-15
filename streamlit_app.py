@@ -21,7 +21,7 @@ st_button('youtube', 'https://youtube.com/channel/UCDXLeBjO7av7mcJ25uAE3ew',
 st_button('medium', 'https://www.snapchat.com/add/f-alshehili?share_id=MEI2MzgxNEMtRDM2NC00NzQ4LTg5NkMtRUQ3QkY2NUM5Nzc4&locale=ar_SA@calendar=gregorian',
           'ٍSnapchat', icon_size)
 st_button('twitter', 'https://twitter.com/thedataprof/',
-          'Follow me on Twitter', icon_size)
+          '   Follow me on Twitter', icon_size)
 st_button('linkedin', 'https://www.linkedin.com/in/chanin-nantasenamat/',
           'Follow me on LinkedIn', icon_size)
 st_button('newsletter', 'https://sendfox.com/dataprofessor/',
